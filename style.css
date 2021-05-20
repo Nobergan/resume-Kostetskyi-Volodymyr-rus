@@ -69,23 +69,22 @@ body {
   font-size: 14px;
 }
 
-.lang-box button:hover,
-.lang-box button:focus {
+.lang-box button:hover {
   color: white;
   background-color: brown;
 }
 
 .resume-en {
-  background-color: brown;
-  color: white;
+  background-color: white;
+  color: brown;
   padding: 4px 4px 2px 3px;
 }
 
 .resume-rus {
   padding: 4px 3px 2px 3px;
   margin-right: 5px;
-  color: brown;
-  background-color: white;
+  color: white;
+  background-color: brown;
 }
 
 /* CONTACTS */
