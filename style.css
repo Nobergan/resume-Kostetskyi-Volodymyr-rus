@@ -64,12 +64,9 @@ body {
 }
 
 .lang-box button {
-  /* background-color: white; */
-  padding: 4px 3px 2px 3px;
   border: transparent;
   border-radius: 10px;
   font-size: 14px;
-  /* color: brown; */
 }
 
 .lang-box button:hover,
@@ -79,14 +76,16 @@ body {
 }
 
 .resume-en {
-  background-color: white;
-  color: brown;
+  background-color: brown;
+  color: white;
+  padding: 4px 4px 2px 3px;
 }
 
 .resume-rus {
+  padding: 4px 3px 2px 3px;
   margin-right: 5px;
-  color: white;
-  background-color: brown;
+  color: brown;
+  background-color: white;
 }
 
 /* CONTACTS */
