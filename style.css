@@ -857,4 +857,17 @@ body {
   .modal-btn {
     margin: 20px auto 0 auto;
   }
+
+  .lang-box {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    display: flex;
+    width: 73px;
+    padding: 5px 5px;
+    background-color: #1e2939;
+    border: 3px solid brown;
+    border-radius: 4px;
+    justify-content: space-between;
+  }
 }
